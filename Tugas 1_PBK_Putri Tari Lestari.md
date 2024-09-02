@@ -1,6 +1,6 @@
 # Nama : Putri Tari Lestari
 # NIM : 2110131120002
-# Mata Kuliah : Pembelajaran Berbantuan Komputer
+# Mata Kuliah : Pengajaran Berbantuan Komputer
 
 ## <h2 align=center><u> Review Microsoft Math Solver sebagai Tutor, Tools dan Tutee </u></h2>
 
