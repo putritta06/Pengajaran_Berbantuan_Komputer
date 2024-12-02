@@ -22,6 +22,21 @@ H5P adalah alat open-source yang dirancang untuk memudahkan pembuatan konten ber
    - **Course Presentation**: Slide interaktif yang mendukung teks, gambar, dan aktivitas.  
    - **Quiz**: Membuat soal pilihan ganda, isian singkat, atau jenis soal lainnya.  
    - **Drag and Drop**: Aktivitas berbasis drag-and-drop untuk mempermudah pembelajaran.
+   - **Image Hotspots**: Menambahkan titik interaktif di atas gambar untuk memberikan informasi tambahan.
+   - **Timeline**: Membuat garis waktu interaktif untuk memvisualisasikan kronologi suatu peristiwa. .
+   - **Memory Game**: Aktivitas mencocokkan pasangan gambar atau teks untuk melatih daya ingat.
+   - **Word Search**: Membuat permainan mencari kata untuk melatih kosakata.
+   - **Accordion**: Menyajikan informasi dalam format yang dapat dilipat untuk menghemat ruang di layar.
+   - **Dialog Cards**: Membuat kartu tanya-jawab untuk latihan kosa kata atau konsep.
+   - **Column Layout**: Menyusun beberapa aktivitas dalam satu halaman secara vertikal.
+   - **Chart**: Membuat grafik interaktif untuk menyajikan data.
+   - **Image Sequencing**: Aktivitas menyusun gambar dalam urutan tertentu.
+   - **Mark the Words**: Membuat latihan menandai kata atau frasa tertentu dalam sebuah teks.
+   - **True/False Question**: Membuat soal dengan pilihan jawaban benar atau salah.
+   - **Interactive Summary**: Menyusun rangkuman interaktif untuk mengevaluasi pemahaman pengguna.
+
+### Catatan:
+H5P terus berkembang, sehingga pengguna dapat menemukan jenis konten baru yang dapat memperkaya pembelajaran interaktif. Anda dapat mencoba semua jenis konten ini melalui platform pendukung seperti WordPress, Moodle, atau aplikasi desktop seperti Lumi Education.
 
 2. **Kemudahan Penggunaan**  
    H5P memungkinkan pengguna membuat konten tanpa memerlukan pengetahuan teknis. Prosesnya cukup dengan memilih jenis aktivitas, mengisi konten, dan menyimpan hasilnya.
